@@ -20,7 +20,11 @@ Files Description:-
                        visualising models as well as the dataset.
 
 --> "visual.py" is the python file which reads the given dataset and Perform PCA,SVD, as well as t-SNE on the given Dataset. 
-                   
+
+--> "27.pdf" is the project report in CVPR format. It contains detailed description of everything done so far in the project.
+
+--> "ML_Project.ppt" is the project presentation with detailed anaysis of the project work.
+
 Instructions to use:
 -->Download the whole repository (all the file to avoid any errors).
 -->Open and run Code_Group_27.py file to get plots and accuracy output for different models.
